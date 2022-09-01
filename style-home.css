@@ -1,0 +1,57 @@
+body{
+    
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background:  #cccccc;
+    padding: 30px;
+}
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center
+}
+
+p {
+    text-align: center;   
+}
+
+#missao {             /*quando usa o identificador usa # */
+   font-size: 20px
+}
+
+em strong {
+    color: red;
+}
+
+.itens {            /*quando usamos uma classe usa o . */
+    font-style: italic;
+}
+
+.beneficios {
+    background: #ffffff;
+    padding: 20px;
+}
+
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+
+
+/* O CSS segue a sequência do HTML*/
